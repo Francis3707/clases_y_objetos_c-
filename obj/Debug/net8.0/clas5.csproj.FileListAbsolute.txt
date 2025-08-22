@@ -1,0 +1,14 @@
+C:\Users\Alumno\Documents\clas5\obj\Debug\net8.0\clas5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Documents\clas5\obj\Debug\net8.0\clas5.AssemblyInfoInputs.cache
+C:\Users\Alumno\Documents\clas5\obj\Debug\net8.0\clas5.AssemblyInfo.cs
+C:\Users\Alumno\Documents\clas5\obj\Debug\net8.0\clas5.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Documents\clas5\bin\Debug\net8.0\clas5.exe
+C:\Users\Alumno\Documents\clas5\bin\Debug\net8.0\clas5.deps.json
+C:\Users\Alumno\Documents\clas5\bin\Debug\net8.0\clas5.runtimeconfig.json
+C:\Users\Alumno\Documents\clas5\bin\Debug\net8.0\clas5.dll
+C:\Users\Alumno\Documents\clas5\bin\Debug\net8.0\clas5.pdb
+C:\Users\Alumno\Documents\clas5\obj\Debug\net8.0\clas5.dll
+C:\Users\Alumno\Documents\clas5\obj\Debug\net8.0\refint\clas5.dll
+C:\Users\Alumno\Documents\clas5\obj\Debug\net8.0\clas5.pdb
+C:\Users\Alumno\Documents\clas5\obj\Debug\net8.0\clas5.genruntimeconfig.cache
+C:\Users\Alumno\Documents\clas5\obj\Debug\net8.0\ref\clas5.dll
